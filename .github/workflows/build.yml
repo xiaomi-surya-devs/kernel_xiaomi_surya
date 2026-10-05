@@ -98,7 +98,7 @@ jobs:
             ### Notes
             *Flash carefully. Do not interrupt the synchronization.*
             *MIUI/HyperOS and AOSP/A support*
-            *Android 11-16 support*
+            *Android 11-17 support*
 
             ### Flash this module if you using ksu variant:
             - https://github.com/backslashxx/mountify/releases/tag/203
